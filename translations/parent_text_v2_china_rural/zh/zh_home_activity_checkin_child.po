@@ -57,7 +57,7 @@ msgstr "没关系！今天抽空来试一试放慢节奏，关照自己吧。"
 #. type=text
 msgctxt "text"
 msgid "Were you able to use the four steps of praise: see it, say it, repeat it, and keep it positive?"
-msgstr "上节课后，你有没有用到这4个步骤——看到优点，多多赞美，形成习惯，保持积极——来表扬孩子呢？？"
+msgstr "上节课后，你有没有用到这4个步骤——看到优点，多多赞美，形成习惯，保持积极——来表扬孩子呢？"
 
 #. type=text
 msgctxt "text"
@@ -145,7 +145,7 @@ msgstr "做得很好，你正在帮助孩子培养阅读能力！"
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to find some time today to read with your child."
-msgstr "没关系！试着今天找些时间和孩子一起读图画书吧。即使只看图片，也能帮孩子提高阅读能力！"
+msgstr "没关系！试着今天找时间和孩子一起阅读吧。"
 
 #. type=text
 msgctxt "text"
@@ -210,7 +210,7 @@ msgstr "没关系！今天找时间和孩子聊一聊他们在学校的情况，
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to find some time today to read with your child. Even looking at pictures will make a difference!"
-msgstr "没关系！试着今天找些时间和你的孩子一起阅读。即使看看图片也会有所帮助！"
+msgstr "没关系！试着今天找些时间和孩子一起读图画书吧。即使只看图片，也能帮孩子提高阅读能力！"
 
 #. type=text
 msgctxt "text"
@@ -578,7 +578,7 @@ msgstr "🔴 讨论上网的时候如何保障自己的安全和隐私。"
 #. type=text
 msgctxt "text"
 msgid "😃 Praise your child for how good they are at using the web!"
-msgstr "😃 找到孩子做得好的地方，表扬他！"
+msgstr "😃 找到孩子做得好的地方，及时表扬！"
 
 #. type=text
 msgctxt "text"
