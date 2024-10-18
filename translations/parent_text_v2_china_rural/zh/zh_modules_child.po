@@ -8059,7 +8059,7 @@ msgstr "📝对于年龄较大的孩子，你可以帮他们给自己的账号�
 #. type=text
 msgctxt "text"
 msgid "❗ Tell your child not to click on pop-ups that ask them to download or pay for anything."
-msgstr "❗告诉孩子不要点击任何下载链接或付费弹窗。"
+msgstr "❗告诉孩子不要点击任何让他们下载或付费的弹窗。"
 
 #. type=text
 msgctxt "text"
