@@ -4129,7 +4129,7 @@ msgstr "没关系！请在这周内抽空完成评估。你可以随时输入 {G
 #. type=text
 msgctxt "text"
 msgid "🚲 Your child is excited to try new things and we should support them by explaining patiently, even if they get it wrong."
-msgstr "🚲 你的孩子会对尝试新事物感到兴奋，即使他们做错了，我们也应该耐心地鼓励、支持他们。"
+msgstr "🚲 孩子尝试新事物，即使做错了，也要鼓励、支持他们。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
