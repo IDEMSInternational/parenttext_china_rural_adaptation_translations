@@ -4135,7 +4135,7 @@ msgstr "🚲 孩子尝试新事物，即使做错了，也要鼓励、支持他�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "⭐ Praise them for keeping on trying! @fields.child_nickname will feel supported. Effort is more important than being good at something."
-msgstr "⭐如果他们能做到不断尝试，要好好表扬他们！ @fields.child_nickname 会感到大受鼓舞。努力比成功更重要。"
+msgstr "⭐ 如果孩子能不断尝试，好好表扬 @fields.child_nickname ！努力比成功更重要！""
 
 #. type=text
 msgctxt "text"
