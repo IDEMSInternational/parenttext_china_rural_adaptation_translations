@@ -6755,7 +6755,9 @@ msgstr "刚刚家长都说到了哪些关键点？\n"
 #. type=text
 msgctxt "text"
 msgid "▶️ Press play to learn 4️⃣ four tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛"
-msgstr "▶️点击“播放”，学习4️⃣个技能，帮助你教孩子有关安全触碰的知识，以及发生非安全触碰时，应该怎么做。💛"
+msgstr "刚刚家长都说到了哪些关键点？\n"
+"\n"
+"远离非安全触碰，一定要学会这4️⃣个要点！"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
