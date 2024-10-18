@@ -1616,7 +1616,7 @@ msgstr "❌ 不对哦。 "
 #. type=text
 msgctxt "text"
 msgid "Let’s see how {F2_GRANDFATHER} handles his granddaughter, {F2_DAUGHTER_8}, when she feels jealous."
-msgstr "孙女 {F2_DAUGHTER_8} 嫉妒别人家有大电视，爷爷{F2_GRANDFATHER} 该怎么说？"
+msgstr "孙女{F2_DAUGHTER_8}嫉妒别人家有大电视，爷爷{F2_GRANDFATHER} 该怎么说？"
 
 #. type=text
 msgctxt "text"
