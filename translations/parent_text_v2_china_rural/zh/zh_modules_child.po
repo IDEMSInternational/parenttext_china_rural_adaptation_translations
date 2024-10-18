@@ -4140,7 +4140,7 @@ msgstr "⭐ 如果孩子能不断尝试，好好表扬 @fields.child_nickname �
 #. type=text
 msgctxt "text"
 msgid "⭐ Praise them for keeping on trying! Your child will feel supported. Effort is more important than being good at something."
-msgstr "⭐如果他们能做到不断尝试，要好好表扬他们！孩子会感到大受鼓舞。努力比成功更重要。"
+msgstr "⭐ 如果孩子能不断尝试，好好表扬他们！努力比成功更重要！"
 
 #. type=text
 msgctxt "text"
