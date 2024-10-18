@@ -165,7 +165,7 @@ msgstr "没关系！试着今天找时间和孩子一起画形状或写名字吧
 #. type=text
 msgctxt "text"
 msgid "Were you able to involve your child in an activity with numbers?"
-msgstr "上节课后，你有和孩子一起玩穿珠子游戏吗？"
+msgstr "上节课后，你有和孩子一起玩串珠子游戏吗？"
 
 #. type=text
 msgctxt "text"
@@ -175,7 +175,7 @@ msgstr "太好了，你正在帮助孩子提升数学能力！"
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to find some time today to involve your child in a counting or other number activity. It will help them learn!"
-msgstr "没关系！今天试着找些时间来和孩子一起玩穿珠子游戏。这将提升他们的学习能力。"
+msgstr "没关系！今天试着找些时间来和孩子一起玩串珠子游戏。这将提升他们的学习能力。"
 
 #. type=text
 msgctxt "text"
@@ -215,12 +215,12 @@ msgstr "没关系！试着今天找些时间和孩子一起读图画书吧。即
 #. type=text
 msgctxt "text"
 msgid "Were you able to do some counting with your child today?"
-msgstr "上节课后，你有和孩子一起玩穿珠子游戏吗？"
+msgstr "上节课后，你有和孩子一起玩串珠子游戏吗？"
 
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to find some time today to do a counting activity with your child."
-msgstr "没关系！试着今天找些时间和孩子玩穿珠子游戏。"
+msgstr "没关系！试着今天找些时间和孩子玩串珠子游戏。"
 
 #. type=text
 msgctxt "text"
@@ -578,7 +578,7 @@ msgstr "🔴 讨论上网的时候如何保障自己的安全和隐私。"
 #. type=text
 msgctxt "text"
 msgid "😃 Praise your child for how good they are at using the web!"
-msgstr "😃 找到孩子做得好的地方，表扬他！"
+msgstr "😃 找到孩子做得好的地方，及时表扬！"
 
 #. type=text
 msgctxt "text"
