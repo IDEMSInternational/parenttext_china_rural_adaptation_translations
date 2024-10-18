@@ -3913,7 +3913,7 @@ msgid "Great! 💙 This activity will help you better support your child’s dev
 msgstr ""
 "太赞啦！💙这将帮助你更好地了解和促进孩子成长。\n"
 "\n"
-"请先点击下一步，然后请输入”成长“，开始填写。"
+"请先点击下一步，然后请输入“成长”，开始填写。"
 
 #. type=text
 msgctxt "text"
