@@ -2255,7 +2255,7 @@ msgstr "太棒了！🎉你已经掌握了如何培养孩子的语言能力！�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "💙 Talk with your child as often as you can! Go down to @fields.child_nickname’s level by kneeling or squatting so you can make eye contact when talking to them."
-msgstr "💙 多和孩子说话，越多越好！在和 @fields.child_nickname 说话时，半跪着或者蹲下来，和孩子保持目光接触。"
+msgstr "💙 你可以蹲坐下来，以便和 @fields.child_nickname 对视。"
 
 #. type=text
 msgctxt "text"
