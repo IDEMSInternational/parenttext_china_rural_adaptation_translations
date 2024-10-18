@@ -8034,27 +8034,27 @@ msgstr "🎈 答对了！"
 #. type=text
 msgctxt "text"
 msgid "3️⃣ BUILD HABITS. Set up safe online habits at home: "
-msgstr "3️⃣ 养成习惯，即在家养成安全上网的习惯："
+msgstr "3️⃣ 养成安全上网的习惯："
 
 #. type=text
 msgctxt "text"
 msgid "❌📱 Plan phone-free times in your house, like during meals, homework, or in bed."
-msgstr "❌📱在家里规定哪些时间不能用手机，比如吃饭、做作业或睡觉的时候。"
+msgstr "❌📱在家里规定哪些时间段不能玩手机。"
 
 #. type=text
 msgctxt "text"
 msgid "⭐ Only let your child chat online with people they already know. They should never share personal information in a chat room or with strangers."
-msgstr "⭐只允许孩子在网上和他们在现实中认识的人聊天，而不能与陌生人聊天，或分享个人信息。"
+msgstr "⭐告诫孩子在网上只能和他们在现实中认识的人聊天，不能与陌生人聊天，更不能泄漏个人信息。"
 
 #. type=text
 msgctxt "text"
 msgid "👀 Before completing forms that ask for personal information, check that the web address begins with https://. Websites that begin with http:// may not be secure."
-msgstr "👀在填写表格、提供个人信息之前，请检查网址是否以https://开头。以http://开头的网站可能不安全。"
+msgstr "👀平时在网上填写表格、提供个人信息之前，请检查网址是否以https://开头。以此开头的网站有可能不太安全。"
 
 #. type=text
 msgctxt "text"
 msgid "📝 For older children, you can help them create strong passwords for their accounts. They should be long, not include obvious personal information like your name or birthday, and include upper and lower case letters, numbers and symbols."
-msgstr "📝对于年龄较大的孩子，你可以帮他们给自己的账号设定较复杂的密码。密码应该长一些，不要包含明显的个人信息，比如名字或生日。密码还应同时包括大小写字母、数字和符号。"
+msgstr "📝如果孩子年龄较大，家长可以帮他们给网络账号设定复杂的密码。"
 
 #. type=text
 msgctxt "text"
