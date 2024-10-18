@@ -915,7 +915,7 @@ msgstr "*模仿游戏*"
 #. type=text
 msgctxt "text"
 msgid "⭐ Choose someone to be the leader (tip: start with an adult like yourself)"
-msgstr "⭐ 选择一个人作为领头人（小贴士：可以先选一个成年人，比如你自己)"
+msgstr "⭐ 选择一个人作为领头人（小贴士：可以先选一个成年人，比如你自己)。"
 
 #. type=text
 msgctxt "text"
