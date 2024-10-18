@@ -6770,7 +6770,9 @@ msgstr "刚刚家长都说到了哪些关键点？\n"
 #. type=text
 msgctxt "text"
 msgid "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛"
-msgstr "以下4️⃣个小贴士，可以帮助你教孩子有关安全触碰的知识，以及发生非安全触碰时，应该怎么做。💛"
+msgstr "刚刚家长都说到了哪些关键点？\n"
+"\n"
+"远离非安全触碰，一定要学会这4️⃣个要点！"
 
 #. type=text
 msgctxt "text"
