@@ -6666,7 +6666,7 @@ msgstr "⭐ 答对了！ "
 #. type=text
 msgctxt "text"
 msgid "{F1_FATHER} wants to help his young children learn about safe and unsafe touch. Lets see how he has the conversation with his young son, {F1_SON_5}."
-msgstr "让我们看看，{F1_FATHER}希是怎么教儿子{F1_SON_5}安全触碰和非安全触碰的："
+msgstr "让我们看看，{F1_FATHER}是怎么教儿子{F1_SON_5}安全触碰和非安全触碰的："
 
 #. type=text
 msgctxt "text"
