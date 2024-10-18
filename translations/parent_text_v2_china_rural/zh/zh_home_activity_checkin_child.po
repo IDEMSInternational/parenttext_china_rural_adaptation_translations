@@ -57,7 +57,7 @@ msgstr "没关系！今天抽空来试一试放慢节奏，关照自己吧。"
 #. type=text
 msgctxt "text"
 msgid "Were you able to use the four steps of praise: see it, say it, repeat it, and keep it positive?"
-msgstr "上节课后，你有没有用到这4个步骤——看到优点，多多赞美，形成习惯，保持积极——来表扬孩子呢？"
+msgstr "上节课后，你有没有用到这4个步骤——“看到优点，多多赞美，形成习惯，保持积极”——来表扬孩子呢？"
 
 #. type=text
 msgctxt "text"
