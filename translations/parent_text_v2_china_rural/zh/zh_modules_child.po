@@ -2260,7 +2260,7 @@ msgstr "💙 你可以蹲坐下来，以便和 @fields.child_nickname 对视。"
 #. type=text
 msgctxt "text"
 msgid "😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say."
-msgstr "😃 这样的话，孩子就能更好地理解你在说什么，这不仅能让你们的亲子关系更加牢固，也能提升孩子的能力和表现。"
+msgstr "😃 你可以用语言描述孩子的动作，并具体表扬孩子什么方面做得好。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
