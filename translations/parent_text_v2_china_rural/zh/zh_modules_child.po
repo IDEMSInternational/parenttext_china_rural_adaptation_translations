@@ -7136,7 +7136,7 @@ msgstr "⭐ 答对了！ "
 #. type=text
 msgctxt "text"
 msgid "Let’s check in on {F3_DAUGHTER_4} and her uncle, {F3_UNCLE} who are playing together outside:"
-msgstr " {F3_DAUGHTER_4} 把球踢到马路上去了，叔叔 {F3_UNCLE} 该说什么？"
+msgstr "{F3_DAUGHTER_4}把球踢到马路上去了，叔叔{F3_UNCLE}该说什么？"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
