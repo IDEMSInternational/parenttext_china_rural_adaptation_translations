@@ -397,7 +397,7 @@ msgid "Home activity! ⭐ Try doing childcare or housework together with your pa
 msgstr "家庭练习！⭐ \n"
 "\n"
 "试着与家人一起照顾孩子或做家务。\n"
-"\n"
+
 
 #. type=text
 msgctxt "text"
@@ -2631,7 +2631,6 @@ msgstr "你已经完成了33％！点击“下一步”继续学习吧。"
 msgctxt "text"
 msgid "▶️ Press play to learn 4️⃣ four more tips on helping your child learn to read. "
 msgstr "怎么让孩子学习字词和书写呢？\n"
-
 "\n"
 "快来看看这4️⃣个小贴士！"
 
@@ -6341,7 +6340,7 @@ msgid "Your Home Activity today is to praise @fields.child_nickname for one thin
 msgstr ""
 "家庭练习！⭐\n"
 "\n"
-"如果 @fields.child_nickname 不听话，可以设些合理的"后果"。\n"
+"如果 @fields.child_nickname 不听话，可以设些合理的“后果”。\n"
 "\n"
 "在执行“后果”之前，记得再给 @fields.child_nickname 一次机会。👂\n"
 "\n"
@@ -6970,7 +6969,7 @@ msgstr "刚刚奶奶都做了些什么？\n"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "5️⃣ Here are five tips to help you teach @fields.child_nickname about safe touch and what to do if they feel unsafe when someone touches them. 💛"
-msgstr ""刚刚奶奶都做了些什么？\n"
+msgstr "刚刚奶奶都做了些什么？\n"
 "\n"
 "让 @fields.child_nickname 远离非安全触碰，一定要学会这5️⃣个要点！"
 
@@ -6979,7 +6978,7 @@ msgctxt "text"
 msgid "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛"
 msgstr "刚刚奶奶都做了些什么？\n"
 "\n"
-远离非安全触碰，一定要学会这5️⃣个要点！"
+"远离非安全触碰，一定要学会这5️⃣个要点！"
 
 #. type=text
 msgctxt "text"
