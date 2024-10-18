@@ -3253,7 +3253,7 @@ msgstr "太棒了！🎉你已经掌握了如何提高孩子的阅读能力！�
 #. type=text
 msgctxt "text"
 msgid "👂 While it’s fun to read with emotions, it is more effective to ask children questions and explore their response and the story with them."
-msgstr "👂 读故事时加入情感固然有趣，但是如果能通过提问和互动，来和孩子一起探索故事，会更加有效哦。"
+msgstr "👂 加入提问和互动，才更有效哦！🤩"
 
 #. type=text
 msgctxt "text"
