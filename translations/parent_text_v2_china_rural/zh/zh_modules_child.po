@@ -2271,7 +2271,7 @@ msgstr "日常生活中，你可以用以下5️⃣种方式促进 @fields.child
 #. type=text
 msgctxt "text"
 msgid "💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them."
-msgstr "💙 多和孩子说话，越多越好！在和孩子说话时，半跪着或者蹲下来，和他们保持目光接触。"
+msgstr "💙 你可以蹲坐下来，以便和孩子对视。"
 
 #. type=text
 msgctxt "text"
