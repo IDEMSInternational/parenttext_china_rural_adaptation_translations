@@ -6737,12 +6737,12 @@ msgstr "💡 让孩子明白，安全最重要。"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "❗ Confronting the person who did it often makes it worse, so it is better to help @fields.child_nickname stay away from the person and report them to the police or at a hospital."
-msgstr "❗ 与坏人正面对峙，往往会使情况变得更糟。因此最好帮 @fields.child_nickname 远离加害者，并报警或去医院寻求帮助。"
+msgstr "❗与坏人正面对峙，很危险。要帮 @fields.child_nickname 远离坏人，马上取证，并报警或到医院、卫生院等寻求帮助。"
 
 #. type=text
 msgctxt "text"
 msgid "❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a hospital."
-msgstr "❗ 与坏人正面对峙，往往会使情况变得更糟。因此最好帮孩子远离加害者，并报警或去医院寻求帮助。"
+msgstr "❗与坏人正面对峙，很危险。要帮孩子远离坏人，马上取证，并报警或到医院、卫生院等寻求帮助。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
