@@ -348,7 +348,7 @@ msgstr "没关系！找时间和孩子聊一聊，让孩子知道他们很被重
 #. type=text
 msgctxt "text"
 msgid "Were you able to share the four steps of be calm, quick, clear and positive with one of your family member?"
-msgstr "上节课后，你有没有和家人分享转移孩子注意的4个要点——"保持冷静、迅速转移、明确指令、保持积极"呢？"
+msgstr "上节课后，你有没有和家人分享转移孩子注意的4个要点——“保持冷静、迅速转移、明确指令、保持积极”呢？"
 
 #. type=text
 msgctxt "text"
