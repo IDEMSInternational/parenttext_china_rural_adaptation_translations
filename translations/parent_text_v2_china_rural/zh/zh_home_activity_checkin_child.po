@@ -145,7 +145,7 @@ msgstr "做得很好，你正在帮助孩子培养阅读能力！"
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to find some time today to read with your child."
-msgstr "没关系！试着今天找些时间和孩子一起读图画书吧。即使只看图片，也能帮孩子提高阅读能力！"
+msgstr "没关系！试着今天找时间和孩子一起阅读吧。"
 
 #. type=text
 msgctxt "text"
