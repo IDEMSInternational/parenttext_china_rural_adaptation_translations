@@ -2168,7 +2168,7 @@ msgstr "⭐ 答对了！ "
 #. type=text
 msgctxt "text"
 msgid "{F1_FATHER} is a dad committed to positive parenting. Let’s see how he approaches time with his son, {F1_SON_5}:"
-msgstr "{F1_FATHER}是一位致力于积极育儿的父亲。让我们来看看，他是如何培养儿子{F1_SON_5}的语言能力的："
+msgstr "我们来看看{F1_FATHER}是怎么和孩子“对话”，培养{F1_SON_5}语言能力的："
 
 #. type=text
 msgctxt "text"
