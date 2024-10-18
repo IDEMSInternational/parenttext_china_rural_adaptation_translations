@@ -6705,7 +6705,7 @@ msgstr "你已经完成了 @fields.c_n_mod 项技能中的 @(fields.c_n_mod_comp
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Today’s skill is about teaching @fields.child_nickname about ✅ safe and ❌ unsafe touch."
-msgstr "今天的技能是教 @fields.child_nickname 什么是✅安全触碰和❌非安全触碰。"
+msgstr "一定要知道，谁能碰 @fields.child_nickname ，谁不能；以及什么是✅安全触碰，什么不是❌！"
 
 #. type=text
 msgctxt "text"
