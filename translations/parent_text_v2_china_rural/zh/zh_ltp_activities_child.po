@@ -136,12 +136,12 @@ msgstr "*边读边玩*"
 #. type=text
 msgctxt "text"
 msgid "📖 Book sharing will help your child learn and is a fun, playful activity to spend quality time together"
-msgstr "📖 陪孩子一起读书不仅有助于他们学习，而且是一项充满乐趣的亲子活动，可以让你和孩子共度高质量的亲子时光"
+msgstr "📖 陪孩子一起读书不仅有助于他们学习，而且是一项充满乐趣的亲子活动，可以让你和孩子共度高质量的亲子时光。"
 
 #. type=text
 msgctxt "text"
 msgid "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones"
-msgstr "⏰ 选择一个不会有人打扰的时间，并尽量杜绝任何会让你们分心的东西，比如你可以关掉电视、放下手机"
+msgstr "⏰ 选择一个不会有人打扰的时间，并尽量杜绝任何会让你们分心的东西，比如你可以关掉电视、放下手机。"
 
 #. type=text
 msgctxt "text"
