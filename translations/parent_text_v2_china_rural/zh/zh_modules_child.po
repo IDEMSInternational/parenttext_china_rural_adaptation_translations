@@ -3258,7 +3258,7 @@ msgstr "👂 加入提问和互动，才更有效哦！🤩"
 #. type=text
 msgctxt "text"
 msgid "🌷 Children don’t just learn maths in school. "
-msgstr "🌷 "
+msgstr "🌷"
 
 #. type=text
 msgctxt "text"
