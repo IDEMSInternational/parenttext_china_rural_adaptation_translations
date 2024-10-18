@@ -1043,7 +1043,7 @@ msgid "Home Activity! ⭐ Try to spend at least 5 minutes of quality one-on-one 
 msgstr ""
 "家庭练习！⭐ \n"
 "\n"
-"和孩子玩10分钟的沙包游戏：一边走一边把沙包顶在头上，保持平衡。然后，一个人丢沙包，另一个人接。\n"
+"每天尽量留出5分钟，和孩子一起度过高质量的一对一亲子时光。这将有助于你们建立良好的亲子关系！\n"
 "\n"
 "你今天有时间试一试吗？⏰"
 
