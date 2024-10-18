@@ -6925,7 +6925,7 @@ msgstr "达成新技能！你已经学会了，如何教给孩子安全触碰的
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER} wants to help her young children learn about safe and unsafe touch. Lets see how she has the conversation with her young daughter, {F3_DAUGHTER_4}."
-msgstr "{让我们看看，{F3_MOTHER}是怎么教女儿{F3_DAUGHTER_4}安全触碰和非安全触碰的："
+msgstr "让我们看看，{F3_MOTHER}是怎么教女儿{F3_DAUGHTER_4}安全触碰和非安全触碰的："
 
 #. type=text
 msgctxt "text"
