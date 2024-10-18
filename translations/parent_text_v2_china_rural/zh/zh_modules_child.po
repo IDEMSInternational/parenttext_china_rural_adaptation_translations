@@ -2276,7 +2276,7 @@ msgstr "💙 你可以蹲坐下来，以便和孩子对视。"
 #. type=text
 msgctxt "text"
 msgid "Press Play to learn 5️⃣ five more tips on helping your child learn:"
-msgstr "点击“播放”来学一学，帮助孩子培养语言能力的5️⃣个小贴士吧："
+msgstr "日常生活中，你可以用以下5️⃣种方式促进孩子语言能力发展。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
