@@ -7693,7 +7693,7 @@ msgstr "家长应该限制孩子每天上网的时间。"
 msgctxt "text"
 msgid "One more! True or false: It is safe for young children to have their social media accounts without parental supervision."
 msgstr ""
-"再来一道判断题：\n"
+"再来一道：\n"
 "\n"
 "在没有家长监督的情况下，孩子可以自己使用社交媒体。"
 
@@ -7833,7 +7833,7 @@ msgstr "再来一道：\n"
 #. type=text
 msgctxt "text"
 msgid "Here is another question. True or false: If your child comes across something upsetting or uncomfortable online, they should keep it to themselves and not tell anyone."
-msgstr "再来一道判断题：\n"
+msgstr "再来一道：\n"
 "\n"
 "在没有家长监督的情况下，孩子可以自己使用社交媒体。"
 
