@@ -8074,12 +8074,12 @@ msgstr "👂向他们提问——这可以帮助你进一步了解孩子的兴�
 #. type=text
 msgctxt "text"
 msgid "💙 If you come across anything worrying together, talk about it with your child."
-msgstr "💙如果你们看到了什么令人担忧的事，就开诚布公地聊聊。"
+msgstr "💙如果看到了什么令人担忧的内容，可以坦诚地聊聊。"
 
 #. type=text
 msgctxt "text"
 msgid "✅ Tell your child that they should tell an adult if they feel scared, unsafe or upset about something online."
-msgstr "✅告诉孩子，如果他们对网上的东西感到害怕、不安，他们应该立即告诉大人。"
+msgstr "✅告诉孩子，如果他们对网上的东西感到害怕、不安，应该立即告诉大人。"
 
 #. type=text
 msgctxt "text"
