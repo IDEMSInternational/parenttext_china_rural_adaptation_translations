@@ -2394,7 +2394,7 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Let’s see how {F1_FATHER} reads with his son, {F1_SON_5}. Notice how he uses the pictures in the book to teach."
-msgstr "让我们来看看，{F1_FATHER}和他的儿子{F1_SON_5}是怎么共读的。请你重点关注，他是如何运用书中的图片来互动和提问的。"
+msgstr "来看看，{F1_FATHER}是如何用书中的图片来互动和提问，和儿子{F1_SON_5}一起共读的？"
 
 #. type=text
 msgctxt "text"
