@@ -6693,7 +6693,7 @@ msgstr "❌ 其他人不能看，也不能触摸你的隐私部位。你也不�
 #. type=text
 msgctxt "text"
 msgid "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!"
-msgstr "太棒了！💙 这将让孩子懂得，在被人触碰，并感到不安时，该如何保护自己。你做得太好了！"
+msgstr "太棒了！💙 这将让孩子懂得，如何保护自己。你做得太好了！"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
