@@ -210,7 +210,7 @@ msgstr "没关系！今天找时间和孩子聊一聊他们在学校的情况，
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to find some time today to read with your child. Even looking at pictures will make a difference!"
-msgstr "没关系！试着今天找些时间和你的孩子一起阅读。即使看看图片也会有所帮助！"
+msgstr "没关系！试着今天找些时间和孩子一起读图画书吧。即使只看图片，也能帮孩子提高阅读能力！"
 
 #. type=text
 msgctxt "text"
