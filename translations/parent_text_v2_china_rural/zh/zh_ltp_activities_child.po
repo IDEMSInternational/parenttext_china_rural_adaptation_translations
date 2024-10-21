@@ -61,7 +61,7 @@ msgstr "*听从指令*"
 #. type=text
 msgctxt "text"
 msgid "👂 Play a game in which your child listens to and tries to remember strings of instructions."
-msgstr "👂  和孩子玩一个游戏，孩子需记住一连串指令。这个游戏有助于他们在学校和日常生活。"
+msgstr "👂 和孩子玩一个游戏，孩子需记住一连串指令。这个游戏有助于他们在学校和日常生活。"
 
 #. type=text
 msgctxt "text"
@@ -136,12 +136,12 @@ msgstr "*边读边玩*"
 #. type=text
 msgctxt "text"
 msgid "📖 Book sharing will help your child learn and is a fun, playful activity to spend quality time together"
-msgstr "📖 陪孩子一起读书不仅有助于他们学习，而且是一项充满乐趣的亲子活动，可以让你和孩子共度高质量的亲子时光"
+msgstr "📖 陪孩子一起读书不仅有助于他们学习，而且是一项充满乐趣的亲子活动，可以让你和孩子共度高质量的亲子时光。"
 
 #. type=text
 msgctxt "text"
 msgid "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones"
-msgstr "⏰ 选择一个不会有人打扰的时间，并尽量杜绝任何会让你们分心的东西，比如你可以关掉电视、放下手机"
+msgstr "⏰ 选择一个不会有人打扰的时间，并尽量杜绝任何会让你们分心的东西，比如你可以关掉电视、放下手机。"
 
 #. type=text
 msgctxt "text"
@@ -915,7 +915,7 @@ msgstr "*模仿游戏*"
 #. type=text
 msgctxt "text"
 msgid "⭐ Choose someone to be the leader (tip: start with an adult like yourself)"
-msgstr "⭐ 选择一个人作为领头人（小贴士：可以先选一个成年人，比如你自己)"
+msgstr "⭐ 选择一个人作为领头人（小贴士：可以先选一个成年人，比如你自己)。"
 
 #. type=text
 msgctxt "text"
