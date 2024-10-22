@@ -66,7 +66,7 @@ msgstr "如不想回答，请输入“过”。"
 
 #. type=text
 msgctxt "text"
-msgid "What is your name??"
+msgid "What is your name?"
 msgstr ""
 "家长您好，请问您的姓名是什么？\n"
 "\n"
