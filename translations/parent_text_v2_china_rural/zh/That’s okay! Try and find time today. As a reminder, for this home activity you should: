@@ -430,7 +430,10 @@ msgstr "没关系！今天找个时间和孩子分享一起解决问题的4个�
 #. type=text
 msgctxt "text"
 msgid "Were you able to have a conversation with your child about safe and unsafe touch?"
-msgstr "上节课后，你有没有和孩子聊一聊安全触碰和非安全触碰呢？"
+msgstr "上节课后，你有没有做以下练习呢？\n"
+"- 教孩子安全触碰和非安全触碰。\n"
+"- 帮孩子练习对非安全触碰说“不”。\n"
+"- 告诉孩子有情况一定要告诉大人。"
 
 #. type=text
 msgctxt "text"
