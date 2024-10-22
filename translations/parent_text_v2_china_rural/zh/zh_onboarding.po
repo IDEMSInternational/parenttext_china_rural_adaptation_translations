@@ -47,6 +47,11 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "What is your relationship status?"
+msgstr "你的伴侣状况是什么？"
+
+#. type=text
+msgctxt "text"
+msgid "Which county do you live in?"
 msgstr "请问您家住哪个乡镇？"
 
 #. type=text
@@ -61,7 +66,7 @@ msgstr "如不想回答，请输入“过”。"
 
 #. type=text
 msgctxt "text"
-msgid "What is your family name (surname)?"
+msgid "What is your name??"
 msgstr ""
 "家长您好，请问您的姓名是什么？\n"
 "\n"
@@ -69,7 +74,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "What is your first name?"
+msgid "What is the name of your facilitator/home visitor?"
 msgstr "请问你们村的村医叫什么名字？"
 
 #. type=text
@@ -310,19 +315,38 @@ msgstr "文字消息"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Single (not in a relationship)"
-msgstr "郭城驿镇"
+msgstr "单身（无伴侣）"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Partnered but not married"
-msgstr "河畔镇"
+msgstr "未婚但有伴侣"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Married"
+msgstr "已婚"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Guochengyi"
+msgstr "郭城驿镇"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Hepan"
+msgstr "河畔镇"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Other county"
 msgstr "其他"
+
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -425,6 +449,25 @@ msgstr "未婚但有伴侣"
 msgctxt "arguments"
 msgid "married"
 msgstr "已婚"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "guochengyi"
+msgstr "郭城驿镇"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "hepan"
+msgstr "河畔镇"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "other county"
+msgstr "其他"
+
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
