@@ -35,6 +35,11 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Which county do you live in?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "What is your child's name?"
 msgstr ""
 
@@ -45,12 +50,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "What is your family name (surname)?"
+msgid "What is your name?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "What is your first name?"
+msgid "What is the name of your facilitator/home visitor?"
 msgstr ""
 
 #. type=text
@@ -81,11 +86,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Click here for more information:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "Press YES if you agree with this. Type \"EXIT\" if you do not want to participate. "
 msgstr ""
 
@@ -111,17 +111,17 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type {STOP}. If you made a mistake, please press BACK and choose another option."
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type \"NO\". If you made a mistake, please press BACK and choose another option."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "If you ever return to participate in the programme, type {START}. "
+msgid "If you ever return to participate in the programme, type \"HELLO\". "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day! "
 msgstr ""
 
 #. type=text
@@ -284,6 +284,24 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Guochengyi"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Hepan"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Other county"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr ""
 
@@ -381,6 +399,24 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "married"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "guochengyi"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "hepan"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "other county"
 msgstr ""
 
 #. type=arguments
