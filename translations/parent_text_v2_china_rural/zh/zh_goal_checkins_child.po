@@ -1302,7 +1302,7 @@ msgstr "⭐ 没关系，万事开头难！"
 #. type=text
 msgctxt "text"
 msgid "🌱 Give yourself time to adjust. "
-msgstr "🌱 善待自己，多给自己一些时间去适应。。 "
+msgstr "🌱 善待自己，多给自己一些时间去适应。 "
 
 #. type=text
 msgctxt "text"
