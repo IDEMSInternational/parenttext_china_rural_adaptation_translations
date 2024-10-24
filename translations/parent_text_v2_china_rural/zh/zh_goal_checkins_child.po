@@ -1824,7 +1824,7 @@ msgstr "我忘了要共同分担责任。"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "I forgot to ask for help."
-msgstr "我没时间去寻求支持，或给予家人支持。"
+msgstr "我忘记了去寻求支持。"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
