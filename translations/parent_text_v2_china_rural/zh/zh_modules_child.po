@@ -935,7 +935,7 @@ msgstr "💡 当孩子主动跟你交流时，及时给予回应。 你的孩子
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Today’s skill is about spending one-on-one time with @fields.child_nickname 😃"
-msgstr "一个简单却被忽视的秘诀，帮你增进亲子关系！ 那就是：和@fields.child_nickname 共度一对一亲子时光。😃"
+msgstr "一个简单却被忽视的秘诀，帮你增进亲子关系！ 那就是：和 @fields.child_nickname 共度一对一亲子时光。😃"
 
 #. type=text
 msgctxt "text"
