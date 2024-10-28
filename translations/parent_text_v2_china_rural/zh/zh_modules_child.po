@@ -8183,7 +8183,7 @@ msgstr "😣 吃太多垃圾食品，会让孩子变得易怒。"
 #. type=text
 msgctxt "text"
 msgid "🍅Healthy foods like fruits, veggies, and whole grains are good for your child’s body, brain, AND behaviour. This can improve their thinking, focus, and mood."
-msgstr "🍅 水果、蔬菜和谷物，则对孩子的身体、大脑和行为都有好处。"
+msgstr "🍅 多吃水果、蔬菜和谷物，则对孩子的身体、大脑和行为都有好处。"
 
 #. type=text
 msgctxt "text"
