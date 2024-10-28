@@ -671,7 +671,7 @@ msgctxt "text"
 msgid "Home Activity! ⭐ Today’s home activity is to practise slowing down. Do you have time to practise slowing down today?"
 msgstr "家庭练习！ ⭐ \n"
 "\n"
-"当你感到生气、沮丧等负面情绪时，试着放慢节奏。\n"
+"当你感到生气、沮丧等负面情绪时，试着深呼吸，放慢节奏。\n"
 "\n"
 "你今天有时间试一试吗？"
 
