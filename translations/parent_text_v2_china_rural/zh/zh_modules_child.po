@@ -5358,7 +5358,7 @@ msgstr "最重要的是，💙让孩子感受到爱和支持！💙"
 msgctxt "text"
 msgid "If your child feels loved and supported at home, they are more likely to happily do chores and to grow into a healthy child and adult! 😃💚"
 msgstr ""
-"孩子在家里感受到被爱和支持，会更乐意帮家长忙。💚\n"
+"孩子在家里感受到被爱和支持时，就会更乐意帮家长忙。💚\n"
 "同时，也会成长地更健康！😃"
 
 #. type=text
