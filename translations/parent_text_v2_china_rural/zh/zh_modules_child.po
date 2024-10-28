@@ -6385,7 +6385,7 @@ msgctxt "text"
 msgid "Well done! 🎉 Praising @fields.child_nickname for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help @fields.child_nickname learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃"
 msgstr ""
 "太棒了！🎉 \n"
-"表扬 @fields.child_nickname， @fields.child_nickname 会更想好好表现。这样一来，可能都不需要使用“后果法”。\n"
+"表扬 @fields.child_nickname， @fields.child_nickname 就会更想好好表现。这样一来，可能都不需要使用“后果法”。\n"
 "\n"
 "合理的“后果”也让孩子明白，他们的行为会影响自己和他人，从而懂得责任和尊重！😃"
 
@@ -6393,21 +6393,21 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "If @fields.child_nickname continues to misbehave, tell them how you feel in a calm way and give them a fair consequence for their behaviour. ⭐"
-msgstr "如果 @fields.child_nickname 的行为问题还在，保持冷静，告诉孩子你现在的感受，然后执行一个合理的“后果”。⭐"
+msgstr "如果 @fields.child_nickname 的行为问题一直持续，保持冷静，告诉孩子你现在的感受，然后执行一个合理的“后果”。⭐"
 
 #. type=text
 msgctxt "text"
 msgid "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃"
 msgstr ""
 "太棒了！🎉 \n"
-"表扬孩子，他们会更想好好表现。这样一来，可能都不需要使用“后果法”。\n"
+"表扬孩子，他们就会更想好好表现。这样一来，可能都不需要使用“后果法”。\n"
 "\n"
 "合理的“后果”也让孩子明白，他们的行为会影响自己和他人，从而懂得责任和尊重！😃"
 
 #. type=text
 msgctxt "text"
 msgid "If your child continues to misbehave, tell them how you feel in a calm way and give them a fair consequence for their behaviour. ⭐"
-msgstr "如果孩子的行为问题还在，保持冷静，告诉孩子你现在的感受，然后执行一个合理的“后果”。⭐"
+msgstr "如果孩子的行为问题一直持续，保持冷静，告诉孩子你现在的感受，然后执行一个合理的“后果”。⭐"
 
 #. type=text
 msgctxt "text"
@@ -6430,7 +6430,7 @@ msgstr "下次 @fields.child_nickname 表现好时，即使是小事，也要表
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "If @fields.child_nickname continues to misbehave, tell them how you feel in a calm way and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐"
-msgstr "如果 @fields.child_nickname 的行为问题还在，保持冷静，告诉孩子你的感受，然后执行一个合理的“后果”。这会慢慢减少问题行为。⭐"
+msgstr "如果 @fields.child_nickname 的行为问题一直持续，保持冷静，告诉孩子你的感受，然后执行一个合理的“后果”。这会慢慢减少问题行为。⭐"
 
 #. type=text
 msgctxt "text"
@@ -6445,7 +6445,7 @@ msgstr "下次孩子表现好时，即使是小事，也要表扬。这样一来
 #. type=text
 msgctxt "text"
 msgid "If your child continues to misbehave, tell them how you feel in a calm way and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐"
-msgstr "如果孩子的行为问题还在，保持冷静，告诉孩子你的感受，然后执行一个合理的“后果”。这会慢慢减少问题行为。⭐"
+msgstr "如果孩子的行为问题一直持续，保持冷静，告诉孩子你的感受，然后执行一个合理的“后果”。这会慢慢减少问题行为。⭐"
 
 #. type=text
 msgctxt "text"
