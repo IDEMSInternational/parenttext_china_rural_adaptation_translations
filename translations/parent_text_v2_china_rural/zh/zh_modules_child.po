@@ -4841,14 +4841,14 @@ msgstr "和孩子一起制定日常作息，会让他们感到更有安全感。
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "This video teaches 3️⃣  three tips for creating daily routines with @fields.child_nickname. ⏰"
-msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？\n"
+msgstr "如何像妈妈小娟一样，引导孩子养成好的作息习惯呢？\n"
 "\n"
 "看看这3️⃣个小技巧，帮助 @fields.child_nickname 建立规律作息。⏰"
 
 #. type=text
 msgctxt "text"
 msgid "This video teaches 3️⃣  three tips for creating daily routines with your child. ⏰"
-msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？\n"
+msgstr "如何像妈妈小娟一样，引导孩子养成好的作息习惯呢？\n"
 "\n"
 "看看这3️⃣个技巧，帮助孩子建立规律作息。⏰"
 
@@ -4856,14 +4856,14 @@ msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "This audio message teaches 3️⃣  three tips for creating daily routines with @fields.child_nickname. ⏰"
-msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？\n"
+msgstr "如何像妈妈小娟一样，引导孩子养成好的作息习惯呢？\n"
 "\n"
 "看看这3️⃣个技巧，帮助 @fields.child_nickname 建立规律作息。⏰"
 
 #. type=text
 msgctxt "text"
 msgid "This audio message teaches 3️⃣  three tips for creating daily routines with your child. ⏰"
-msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？\n
+msgstr "如何像妈妈小娟一样，引导孩子养成好的作息习惯呢？\n
 "\n"
 "看看这3️⃣个技巧，帮助孩子建立规律作息。⏰"
 
@@ -4871,14 +4871,14 @@ msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "3️⃣ Here are three tips on how to create routines with @fields.child_nickname."
-msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？\n"
+msgstr "如何像妈妈小娟一样，引导孩子养成好的作息习惯呢？\n"
 "\n"
 "看看这3️⃣个技巧，帮助 @fields.child_nickname 建立规律作息。⏰"
 
 #. type=text
 msgctxt "text"
 msgid "3️⃣ Here are three tips on how to create routines with your child."
-msgstr "如何像小娟妈妈一样，引导孩子养成好的作息习惯呢？\n
+msgstr "如何像妈妈小娟一样，引导孩子养成好的作息习惯呢？\n
 "\n"
 "看看这3️⃣个技巧，帮助孩子建立规律作息。⏰"
 
