@@ -691,7 +691,7 @@ msgstr "没关系！今天试着和家人聊聊如何共分家庭责任吧，这
 #. type=text
 msgctxt "text"
 msgid "Were you able to practice taking a pause?"
-msgstr "上节课后，当你感到生气、沮丧等负面情绪时，有试着放慢节奏吗？"
+msgstr "上节课后，当你感到生气、沮丧等负面情绪时，有试着深呼吸、放慢节奏吗？"
 
 #. type=text
 msgctxt "text"
