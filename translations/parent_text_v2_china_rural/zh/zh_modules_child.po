@@ -29,7 +29,7 @@ msgctxt "text"
 msgid "Slowing down will help you manage stress and be more able to take care of others and yourself.🌱"
 msgstr "你会不会有时觉得很生气或疲惫？任何人都难免遇到生活压力。\n"
 "\n"
-"放慢节奏可以帮你解压，从而更好地照顾自己，和他人。🌱"
+"放慢节奏可以帮你解压，从而更好地照顾自己和他人。🌱"
 
 #. type=text
 msgctxt "text"
