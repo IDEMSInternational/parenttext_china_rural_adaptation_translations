@@ -88,7 +88,7 @@ msgid "This skill is about how you and your partner, or other family members suc
 msgstr ""
 "如何减少与家人之间的矛盾，与家人平等相待？\n"
 "\n"
-"⭐ 你可以试试，平时在做决定时，多问问家人的意见"
+"⭐ 你可以试试，平时在做决定时，多问问家人的意见。"
 
 #. type=text
 msgctxt "text"
