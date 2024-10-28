@@ -595,7 +595,7 @@ msgstr "下大雨了，衣服却没收，家庭矛盾一触即发，看看他们
 #. type=text
 msgctxt "text"
 msgid "Here’s a video message about resolving conflicts peacefully."
-msgstr "下大雨了，衣服却没收，家庭矛盾一触即发，看看他们是怎么解决的？\n"
+msgstr "想一想，刚才漫画里的家人是如何在关键时刻，和平化解矛盾的？\n"
 "\n"
 "面对家庭矛盾时，你也可以试试这3️⃣个方法，来避免冲突升级。"
 
