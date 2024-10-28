@@ -2253,7 +2253,7 @@ msgstr "太棒了！🎉你已经掌握了如何培养孩子的语言能力！�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "💙 Talk with your child as often as you can! Go down to @fields.child_nickname’s level by kneeling or squatting so you can make eye contact when talking to them."
-msgstr "💙 你可以蹲坐下来，以便和 @fields.child_nickname 对视。"
+msgstr "💙 对话时，你可以蹲坐下来，以便和 @fields.child_nickname 对视。"
 
 #. type=text
 msgctxt "text"
@@ -2269,7 +2269,7 @@ msgstr "日常生活中，你可以用以下5️⃣种方式促进 @fields.child
 #. type=text
 msgctxt "text"
 msgid "💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them."
-msgstr "💙 你可以蹲坐下来，以便和孩子对视。"
+msgstr "💙 对话时，你可以蹲坐下来，以便和孩子对视。"
 
 #. type=text
 msgctxt "text"
@@ -2280,12 +2280,12 @@ msgstr "日常生活中，你可以用以下5️⃣种方式促进孩子语言�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "5️⃣ Here are 5 tips on helping @fields.child_nickname learn by talking with them. "
-msgstr "以下是5️⃣个小贴士，能让你学会：如何通过和 @fields.child_nickname 交谈，来提升语言能力。 "
+msgstr "日常生活中，你可以用以下5️⃣种方式促进 @fields.child_nickname 的语言能力发展。 "
 
 #. type=text
 msgctxt "text"
 msgid "5️⃣ Here are 5 tips on helping your child learn by talking with them. "
-msgstr "以下是5️⃣个小贴士，能让你学会：如何通过和孩子交谈，来帮助他们提升语言能力。 "
+msgstr "日常生活中，你可以用以下5️⃣种方式促进孩子的语言能力发展。 "
 
 #. type=text
 msgctxt "text"
