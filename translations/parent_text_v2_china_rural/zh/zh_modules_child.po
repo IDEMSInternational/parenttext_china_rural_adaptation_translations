@@ -7842,7 +7842,7 @@ msgctxt "text"
 msgid "Here is another question. True or false: If your child comes across something upsetting or uncomfortable online, they should keep it to themselves and not tell anyone."
 msgstr "再来一道：\n"
 "\n"
-"在没有家长监督的情况下，孩子可以自己使用社交媒体。"
+"如果孩子在网上看到了令人感到不适的内容，应该保守秘密，没必要告诉任何人。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
