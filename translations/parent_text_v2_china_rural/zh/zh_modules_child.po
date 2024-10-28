@@ -8650,7 +8650,7 @@ msgid "Home Activity! ⭐ It’s time to get out your paper and build your month
 msgstr ""
 "家庭练习！⭐\n"
 "\n"
-"和家人一起制定你家的月度育儿预算。\n"
+"和家人一起制定本月的育儿预算。\n"
 "\n"
 "你今天有时间试一试吗？"
 
