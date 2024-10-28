@@ -1314,7 +1314,7 @@ msgstr "✨ 方式很重要。"
 #. type=text
 msgctxt "text"
 msgid "🌱 You can begin by praising your child for the smallest things, such as playing by themselves quietly for 2 minutes."
-msgstr "🌱 表扬应该是具体的、及时的、真诚。"
+msgstr "🌱 表扬应该是具体的、及时的、真诚的。"
 
 #. type=text
 msgctxt "text"
