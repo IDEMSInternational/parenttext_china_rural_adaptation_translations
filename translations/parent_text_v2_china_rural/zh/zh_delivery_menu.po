@@ -20,7 +20,7 @@ msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive 
 msgstr ""
 "在这个模块中，你将学习 @fields.c_n_mod 个养育技巧，每天一个。\n"
 "\n"
-"今天我们学习第一个，也是最重要的一个： @results.name 。"
+"今天我们学习第一个： @results.name 。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
