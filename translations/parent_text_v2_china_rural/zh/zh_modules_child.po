@@ -3708,7 +3708,7 @@ msgctxt "text"
 msgid "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚"
 msgstr "孩子能从错误中学到知识吗❓答案是，当然可以！\n"
 "\n"
-"这就叫“汲错成智”！💚"
+"这就叫“汲错成智”。💚"
 
 #. type=text
 msgctxt "text"
