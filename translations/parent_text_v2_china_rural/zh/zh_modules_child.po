@@ -2360,7 +2360,7 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Excellent! Using words and gestures that @fields.child_nickname can understand to describe your activities is a great way to help them learn! 💡"
-msgstr "太好了！用 @fields.child_nickname 能明白的言语和手势，来描述你们的活动，这是提升他们语言能力的好方法！💡"
+msgstr "太好了！用 @fields.child_nickname 能明白的言语和手势，来描述你们的活动，这有助于提升孩子的语言能力！💡"
 
 #. type=text
 msgctxt "text"
