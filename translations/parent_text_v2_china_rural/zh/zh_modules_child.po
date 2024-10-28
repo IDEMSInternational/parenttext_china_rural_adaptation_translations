@@ -2788,7 +2788,7 @@ msgid "This skill is about introducing your child to numbers and maths. 1️⃣2
 msgstr ""
 "想知道如何培养孩子的数学能力吗❓\n"
 "\n"
-"先学学向孩子介绍数字和数学的概念吧！1️⃣2️⃣3️⃣"
+"先来看看向孩子介绍数字和数学的概念吧！1️⃣2️⃣3️⃣"
 
 #. type=text
 msgctxt "text"
