@@ -1706,14 +1706,16 @@ msgstr "⭐  和孩子谈论谈论感受，有利于促进心理健康。 "
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Press Play ▶️ to learn 6️⃣ six tips to help @fields.child_nickname learn how to cope with their emotions"
-msgstr "点击“播放”▶️来学一学，帮助 @fields.child_nickname 学会管理自己情绪的6️⃣个小贴士吧。"
+msgstr "如果像爷爷一样，平时也会遇到孩子情绪不好的时候，该怎么办？\n"
+"\n"
+"6️⃣个窍门，教会 @fields.child_nickname 情绪管理。"
 
 #. type=text
 msgctxt "text"
 msgid "Press Play ▶️ to learn 6️⃣ six tips to help your child learn how to cope with their emotions"
 msgstr "如果像爷爷一样，平时也会遇到孩子情绪不好的时候，该怎么办？\n"
 "\n"
-"6️⃣个窍门，教会 @fields.child_nickname 情绪管理。"
+"6️⃣个窍门，教会孩子情绪管理。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
