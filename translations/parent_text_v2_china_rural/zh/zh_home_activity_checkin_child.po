@@ -68,12 +68,12 @@ msgstr "做得非常好！"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "That’s okay! Try to praise @fields.child_nickname today, even if it’s something small."
-msgstr "没关系！今天可以试着玩投篮游戏，并表扬@fields.child_nickname，哪怕是一些小事。"
+msgstr "没关系！今天可以试着去表扬 @fields.child_nickname，哪怕是一些小事。"
 
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to praise your child today, even if it’s something small."
-msgstr "没关系！今天可以试着玩投篮游戏，并表扬你的孩子，哪怕是一些小事。"
+msgstr "没关系！今天可以试着去表扬你的孩子，哪怕是一些小事。"
 
 #. type=text
 msgctxt "text"
@@ -691,7 +691,7 @@ msgstr "没关系！今天试着和家人聊聊如何共分家庭责任吧，这
 #. type=text
 msgctxt "text"
 msgid "Were you able to practice taking a pause?"
-msgstr "上节课后，当你感到生气、沮丧等负面情绪时，有试着放慢节奏吗？"
+msgstr "上节课后，当你感到生气、沮丧等负面情绪时，有试着深呼吸、放慢节奏吗？"
 
 #. type=text
 msgctxt "text"

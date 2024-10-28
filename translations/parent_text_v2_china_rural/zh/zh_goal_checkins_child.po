@@ -1217,7 +1217,9 @@ msgstr "所有儿童都会有行为问题。请在下列常见问题中，选择
 #. type=text
 msgctxt "text"
 msgid "Learning how to manage our stress is the first step to providing the best support for our children. Let’s check in on you first:"
-msgstr "家长只有先学会减轻自身压力，才能为孩子提供更好的养育。开始前请先回答一个问题："
+msgstr "家长只有先学会减轻自身压力，才能为孩子提供更好的养育环境。\n"
+"\n"
+"开始前请先回答一个问题："
 
 #. type=text
 msgctxt "text"
