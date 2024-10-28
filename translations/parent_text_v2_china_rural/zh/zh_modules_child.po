@@ -164,7 +164,7 @@ msgstr "这是一个关于平等相待的音频。 "
 #. type=text
 msgctxt "text"
 msgid "Here are some simple steps that you and your family members can do to treat each other as equals:"
-msgstr 想和漫画里一样，与家人更和谐地相处吗？下面4️⃣个小妙招，帮你迈出家庭和谐的第一步！"
+msgstr "想和漫画里一样，与家人更和谐地相处吗？下面4️⃣个小妙招，帮你迈出家庭和谐的第一步！"
 
 #. type=text
 msgctxt "text"
@@ -397,6 +397,8 @@ msgid "Home activity! ⭐ Try doing childcare or housework together with your pa
 msgstr "家庭练习！⭐ \n"
 "\n"
 "试着与家人一起照顾孩子或做家务。\n"
+"\n"
+"你今天有时间试一试吗？\n"
 
 
 #. type=text
