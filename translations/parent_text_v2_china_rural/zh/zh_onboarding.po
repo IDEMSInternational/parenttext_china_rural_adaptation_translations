@@ -42,7 +42,7 @@ msgstr ""
 "\n"
 "你希望以何种形式接收信息呢？\n"
 "\n"
-"两两种方式的内容都是一样的，之后你也可以随时在主菜单中进行修改。"
+"两种方式的内容都是一样的，之后您也可以随时在主菜单中进行修改。"
 
 #. type=text
 msgctxt "text"
@@ -161,7 +161,7 @@ msgstr "如果你想体验“科育时光”，你可以随时发给你的家长
 #. type=text
 msgctxt "text"
 msgid "Here is a video that shows how to use ParentText."
-msgstr "以下视频将为你介绍“科育时光”的使用方法。"
+msgstr "以下视频将为您介绍“科育时光”的使用方法。"
 
 #. type=text
 msgctxt "text"
