@@ -356,7 +356,7 @@ msgstr "坚持学完所有的科学养育技能，并付诸实践，这是件非
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
-msgstr "🎉热烈祝贺！🎉你已学完了所有科学养育技巧，并赢得了属于你的积极育儿奖杯🏆。太棒了！"
+msgstr "🎉恭喜🎉 你已完成目标模块： @results.name 。太棒了！这是你赢得的新奖章："
 
 #. type=text
 msgctxt "text"

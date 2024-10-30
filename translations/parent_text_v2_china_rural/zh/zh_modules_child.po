@@ -1279,7 +1279,7 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with @fields.child_nickname by learning to be kind to yourself. ☀️ "
-msgstr "你你想过要好好善待自己吗？💚 这能极大提升你和 @fields.child_nickname 的关系。☀️  "
+msgstr "你想过要好好善待自己吗？💚 这能极大提升你和 @fields.child_nickname 的关系。☀️  "
 
 #. type=text
 msgctxt "text"
@@ -2257,7 +2257,8 @@ msgstr "太棒了！🎉你已经掌握了如何培养孩子的语言能力！�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "💙 Talk with your child as often as you can! Go down to @fields.child_nickname’s level by kneeling or squatting so you can make eye contact when talking to them."
-msgstr "💙 对话时，你可以蹲坐下来，以便和 @fields.child_nickname 对视。"
+msgstr "💙 对话时，你可以蹲坐下来，以便和 @fields.child_nickname 对视。\n"
+"\n"
 
 #. type=text
 msgctxt "text"
@@ -4252,12 +4253,12 @@ msgstr "✨"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "2️⃣ Here are two tips to support the healthy development of @fields.child_nickname at this age."
-msgstr "以下是2️⃣条小贴士，能帮你促进 @fields.child_nickname 的健康成长。💚"
+msgstr "和 @fields.child_nickname 试试这2️⃣个简单又日常的小妙招💚"
 
 #. type=text
 msgctxt "text"
 msgid "2️⃣ Here are two tips to support the healthy development of your child at this age."
-msgstr "以下是2️⃣条小贴士，能帮你促进孩子的健康成长。💚"
+msgstr "和孩子试试这2️⃣个简单又日常的小妙招💚"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 

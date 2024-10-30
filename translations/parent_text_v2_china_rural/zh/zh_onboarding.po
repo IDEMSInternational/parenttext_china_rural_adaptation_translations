@@ -21,7 +21,7 @@ msgstr "请问您的性别是？"
 #. type=text
 msgctxt "text"
 msgid "Sorry, I don't understand what you mean."
-msgstr "抱歉，我不明白你的意思。"
+msgstr "抱歉，我不明白您的意思。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -32,22 +32,22 @@ msgstr " @fields.child_nickname 是女孩还是男孩？"
 #. type=text
 msgctxt "text"
 msgid "Is your child a girl or a boy?"
-msgstr "你的孩子是女孩还是男孩？"
+msgstr "您的孩子是女孩还是男孩？"
 
 #. type=text
 msgctxt "text"
 msgid "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content as text and illustrations. How would you like to receive ParentText?"
 msgstr ""
-"我们可以通过推送视频或者文字消息，来为你提供育儿知识和技巧。\n"
+"我们可以通过推送视频或者文字消息，来为您提供育儿知识和技巧。\n"
 "\n"
-"你希望以何种形式接收信息呢？\n"
+"您希望以何种形式接收信息呢？\n"
 "\n"
-"两两种方式的内容都是一样的，之后你也可以随时在主菜单中进行修改。"
+"两种方式的内容都是一样的，之后您也可以随时在主菜单中进行修改。"
 
 #. type=text
 msgctxt "text"
 msgid "What is your relationship status?"
-msgstr "你的伴侣状况是什么？"
+msgstr "您的伴侣状况是什么？"
 
 #. type=text
 msgctxt "text"
@@ -75,7 +75,7 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "What is the name of your facilitator/home visitor?"
-msgstr "请问你们村的村医叫什么名字？"
+msgstr "请问您们村的村医叫什么名字？"
 
 #. type=text
 msgctxt "text"
@@ -101,7 +101,7 @@ msgstr "❌你可以随时输入 {STOP} 来停止学习。"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "❓If you have questions, ask Dr. Jamie Lachman at jamie.lachman@spi.ox.ac.uk; +44(7)840825892"
-msgstr "❓ 如果你有任何疑问，请联系方祖仪博士：fangzuyi@bnu.edu.cn。"
+msgstr "❓ 如果你有任何疑问，请联系方祖仪博士：fangzuyi@pku.edu.cn。"
 
 #. type=text
 msgctxt "text"
@@ -161,7 +161,7 @@ msgstr "如果你想体验“科育时光”，你可以随时发给你的家长
 #. type=text
 msgctxt "text"
 msgid "Here is a video that shows how to use ParentText."
-msgstr "以下视频将为你介绍“科育时光”的使用方法。"
+msgstr "以下视频将为您介绍“科育时光”的使用方法。"
 
 #. type=text
 msgctxt "text"
@@ -187,17 +187,17 @@ msgstr "例如，如果孩子是2019年5月19日出生的，请输入2019/5/19�
 #. type=text
 msgctxt "text"
 msgid "Sorry, this date is invalid. Please write your child's date of birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write 2015/05/19."
-msgstr "对不起，输入无效。请按以下方式输入孩子的出生日期：年/月/日。 例如，如果你的孩子出生于2019年5月19日，请输入2019/5/19。"
+msgstr "对不起，输入无效。请按以下方式输入孩子的出生日期：年/月/日。 例如，如果您的孩子出生于2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 msgctxt "text"
 msgid "The date you entered is in the future. Please write your child's date of birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write  2015/05/19."
-msgstr "日期输入错误。请按以下方式输入孩子的出生日期：年/月/日。 例如，如果你的孩子出生于2019年5月19日，请输入2019/5/19。"
+msgstr "日期输入错误。请按以下方式输入孩子的出生日期：年/月/日。 例如，如果您的孩子出生于2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 msgctxt "text"
 msgid "Let's try again. Please write your child's date of birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write  2015/05/19."
-msgstr "请重新输入。请按以下方式输入孩子的出生日期：年/月/日。 例如，如果你的孩子出生于2019年5月19日，请输入2019/5/19。"
+msgstr "请重新输入。请按以下方式输入孩子的出生日期：年/月/日。 例如，如果您的孩子出生于2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -209,56 +209,56 @@ msgstr "@fields.child_nickname 今年 @(round_down(datetime_diff(results.date,no
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "你的孩子今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁，是吗？"
+msgstr "您的孩子今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁，是吗？"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write  2015/05/19."
 msgstr ""
-"根据你输入的日期， @fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
+"根据您输入的日期， @fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
 "\n"
 "“科育时光”仅适用于2-9岁儿童。\n"
 "\n"
-"如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2019年5月19日，请输入2019/5/19。"
+"如果您孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果您的孩子出生于 2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write  2015/05/19."
 msgstr ""
-"根据你输入的日期，你的孩子今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
+"根据您输入的日期，您的孩子今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
 "\n"
 "“科育时光”仅适用于2-9岁儿童。\n"
 "\n"
-"如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2019年5月19日，请输入2019/5/19。"
+"如果您孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果您的孩子出生于 2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write 2015/05/19."
 msgstr ""
-"根据你输入的日期， @fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
+"根据您输入的日期， @fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
 "\n"
 "“科育时光”仅适用于2-9岁儿童。\n"
 "\n"
-"如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2019年5月19日，请输入2019/5/19。"
+"如果您孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果您的孩子出生于 2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: YYYY/MM/DD. For example, if your child was born on May 19, 2015, write 2015/05/19."
-msgstr "根据你输入的日期，你的孩子今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
+msgstr "根据您输入的日期，您的孩子今年 @(round_down(datetime_diff(results.date,now(),"M")/12)) 岁了。\n"
 "\n"
 "“科育时光”仅适用于2-9岁儿童。\n"
 "\n"
-"如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2019年5月19日，请输入2019/5/19。"
+"如果您孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果您的孩子出生于 2019年5月19日，请输入2019/5/19。"
 
 #. type=text
 msgctxt "text"
 msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
 msgstr ""
-"你在“科育时光”里学习到的内容，将有益于家里的每个孩子！\n"
+"您在“科育时光”里学习到的内容，将有益于家里的每个孩子！\n"
 "\n"
 "但在这次的学习过程中，让我们先重点关注一个孩子。"
 
@@ -266,7 +266,7 @@ msgstr ""
 msgctxt "text"
 msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
 msgstr ""
-"欢迎使用“科育时光”——你的育儿好帮手。\n"
+"欢迎使用“科育时光”——您的育儿好帮手。\n"
 "我们开始吧！"
 
 #. type=quick_replies
