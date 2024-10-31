@@ -27,7 +27,7 @@ msgstr "上节课后，你有和孩子共度5分钟的一对一亲子时光吗�
 #. type=text
 msgctxt "text"
 msgid "Amazing! Well done for making this commitment."
-msgstr "太棒了，花时间和孩子一起玩耍非常好！"
+msgstr "太棒了，花时间和孩子一起玩耍非常重要！"
 
 #. type=text
 msgctxt "text"
