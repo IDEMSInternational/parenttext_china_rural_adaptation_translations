@@ -3525,7 +3525,7 @@ msgstr "🧸 想知道如何让孩子找到学习的乐趣吗？快来学学吧�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "🎨 Playing with @fields.child_nickname is important for their development and learning in and out of school. This is true for ALL children, including those with physical and developmental disabilities. "
-msgstr "🎨 和 @fields.child_nickname 一起玩，对任何孩子的发展和学习都很重要。"
+msgstr "🎨 和 @fields.child_nickname 一起玩，对孩子的发展和学习都很重要。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
