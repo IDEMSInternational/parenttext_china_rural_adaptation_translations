@@ -2957,23 +2957,23 @@ msgstr "你现在已经完成了 @fields.c_n_mod 项技能中的 @(fields.c_n_mo
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three ways you can help @fields.child_nickname gain number skills. "
-msgstr "▶️点击“播放” ，开始学习3️⃣种培养 @fields.child_nickname 数学能力的方法吧。"
+msgstr "在家培养 @fields.child_nickname  的数学能力，可以试试3️⃣种游戏：数一数、找数字和认形状。"
 
 #. type=text
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three ways you can help your child gain number skills. "
-msgstr "▶️点击“播放”，开始学习 3️⃣种培养孩子数学能力的方法吧。"
+msgstr "在家培养孩子的数学能力，可以试试3️⃣种游戏：数一数、找数字和认形状。 "
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three ways you can help @fields.child_nickname gain number skills"
-msgstr "▶️点击“播放”，开始学习3️⃣种培养 @fields.child_nickname 数学能力的方法吧。"
+msgstr "在家培养 @fields.child_nickname  的数学能力，可以试试3️⃣种游戏：数一数、找数字和认形状。"
 
 #. type=text
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three ways you can help your child gain number skills"
-msgstr "▶️点击“播放”，开始学习3️⃣种培养孩子数学能力的方法吧。"
+msgstr "在家培养孩子的数学能力，可以试试3️⃣种游戏：数一数、找数字和认形状。"
 
 #. type=text
 msgctxt "text"
@@ -3281,12 +3281,12 @@ msgstr "💙 孩子可以在任何地方学数学，并且你也能帮忙！"
 #. type=text
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three ways you can help your child learn number skills. "
-msgstr "▶️点击“播放”，开始学习3️⃣种培养孩子数学能力的方法吧。 "
+msgstr "在家培养孩子的数学能力，可以试试3️⃣种游戏：数一数、找数字和认形状。"
 
 #. type=text
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three ways you can help your child learn number skills"
-msgstr "▶️点击“播放”，开始学习3️⃣种培养孩子数学能力的方法吧。"
+msgstr "在家培养孩子的数学能力，可以试试3️⃣种游戏：数一数、找数字和认形状。"
 
 #. type=text
 msgctxt "text"
